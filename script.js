@@ -1,5 +1,2 @@
-const yearElement = document.querySelector('#year');
-
-if (yearElement) {
-  yearElement.textContent = new Date().getFullYear();
-}
+// 기본 사이트 동작은 script-dynamic.js에서 처리합니다.
+// 이 파일은 이전 버전 호환을 위해 남겨둔 안내용 스크립트입니다.
